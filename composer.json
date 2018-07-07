@@ -1,0 +1,22 @@
+{
+    "name": "hao/php-git",
+    "homepage": "https://github.com/JZhao1020/php-git",
+    "description": "php-git操作",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hao",
+            "email": "18816784184@163.com"
+        }
+    ],
+    "keywords": [
+        "alidayu"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["Git.php"]
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
