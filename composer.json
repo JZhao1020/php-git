@@ -9,9 +9,6 @@
             "email": "18816784184@163.com"
         }
     ],
-    "keywords": [
-        "alidayu"
-    ],
     "license": "MIT",
     "autoload": {
         "classmap": ["Git.php"]
